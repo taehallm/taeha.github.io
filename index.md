@@ -2,6 +2,8 @@
 
 ## Welcome to my blog
 
+{% include info.html text="You can include info boxes" %}
+
 This is a place where I share my works (soon)
 
 I have a *blog!*
