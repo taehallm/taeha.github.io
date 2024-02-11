@@ -2,11 +2,8 @@
 
 ## Welcome to my blog
 
-{% include info.html text="You can include info boxes" %}
+{% include info.html text="This is a personal blog that I write whenever I have time" %}
 
-This is a place where I share my works (soon)
-
-I have a *blog!*
-_
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Topics I like to cover...
+- LLMs / Prompt Engineering
+- Entrepreneurship
