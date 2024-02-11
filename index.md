@@ -7,3 +7,5 @@
 > Topics I like to cover...
 > - LLMs / Prompt Engineering
 > - Entrepreneurship
+
+![Image of fast.ai logo](images/header.png)
