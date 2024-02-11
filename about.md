@@ -1,7 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-## T
-
-This is sample text
+I'm an AI Engineer at [Markr AI](http://markr.co.kr/)
