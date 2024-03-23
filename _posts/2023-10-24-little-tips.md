@@ -1,4 +1,4 @@
-# Little tips before starting your own company
+# 5 tips I wish someone had told be before I started my own startup
 
 Being at the helm of a startup is no easy feat. Especially in the domains of generative AI and SaaS where the competition is fierce, and the landscape is ever-evolving. Here's a distilled guide for thriving in this challenging terrain:
 
